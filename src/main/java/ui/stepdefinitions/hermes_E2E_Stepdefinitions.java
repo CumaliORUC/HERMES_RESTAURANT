@@ -8,6 +8,7 @@ import org.junit.Assert;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
 import ui.pages.hermes_Page;
 import ui.utulities.ConfigReader;
 import ui.utulities.Driver;
@@ -19,6 +20,7 @@ public class hermes_E2E_Stepdefinitions {
  hermes_Page hermes_page=new hermes_Page();
  Logger log = (Logger) LogManager.getLogger(hermes_E2E_Stepdefinitions.class);
 
+   Random random=new Random();
     String selected_Product_Name;
 
 
@@ -33,7 +35,6 @@ public class hermes_E2E_Stepdefinitions {
 
     @Then("Verify that page is American Burger Pizza House Home page")
       public void verifyThatPageTitleIsContainsAmericanBurger() {
-
 
        String expected_title="American Burger";
        String actual_title=Driver.getDriver().getTitle();
@@ -63,7 +64,6 @@ public class hermes_E2E_Stepdefinitions {
     @When("User selects random a product from the product list")
     public void user_selects_random_a_product_from_the_product_list() {
 
-       Random random=new Random();
        WebElement selected_Product=hermes_page.selected_product_list().get(random.nextInt(hermes_page.selected_product_list().size()));
        selected_Product_Name=selected_Product.getText();
 
@@ -82,9 +82,12 @@ public class hermes_E2E_Stepdefinitions {
        if (deliveryOption.equals("Pickup")) {
           hermes_page.pickUp_Button.click();
        }
-       else { hermes_page.delivery_Button.click();}
+       else { hermes_page.delivery_Button.click();
+          hermes_page.delivery_address_dropdown_box.click();
+          hermes_page.augsburg_ZipCode.click();
+       }
        hermes_page.deliveryOptions_Confirm_Button.click();
-       log.info("Pick Up Options is selected");
+       log.info(deliveryOption+" Options is selected");
     }
     @When("User clicks to Confirm")
     public void user_clicks_to_confirm() {
@@ -92,6 +95,7 @@ public class hermes_E2E_Stepdefinitions {
        if (hermes_page.product_menu_Confirm_Button.isDisplayed()) {
           hermes_page.product_menu_Confirm_Button.click();
        }
+        log.info(" Product order is confirmed ");
     }
     @Then("Verify that the selected product is in the cart")
     public void verify_that_the_selected_product_is_in_the_cart() {

@@ -721,3 +721,251 @@
 2022-04-16 18:51:24 INFO  hermes_E2E_Stepdefinitions:75 - American Mushroom Burger product selected random
 2022-04-16 18:51:25 INFO  hermes_E2E_Stepdefinitions:100 - American Mushroom Burger is  added to the cart
 2022-04-16 18:51:25 INFO  hermes_Cart_Stepdefinitions:105 - Subtotal Price and Product Total price is same
+2022-04-16 21:03:01 INFO  hermes_E2E_Stepdefinitions:42 - It has gone to the Hermes Home Page
+2022-04-16 21:03:01 INFO  hermes_E2E_Stepdefinitions:50 - American Burger is selected
+2022-04-16 21:03:02 INFO  hermes_E2E_Stepdefinitions:60 - American Burger category is verified
+2022-04-16 21:03:02 INFO  hermes_E2E_Stepdefinitions:75 - American Tortilla Burger (Hot) product selected random
+2022-04-16 21:20:50 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 21:20:50 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 21:20:50 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 21:20:50 INFO  hermes_E2E_Stepdefinitions:76 - American Rösti Deluxe Burger product selected random
+2022-04-16 21:25:28 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 21:25:29 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 21:25:29 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 21:25:29 INFO  hermes_E2E_Stepdefinitions:76 - Mexican Burger product selected random
+2022-04-16 21:30:16 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 21:30:17 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 21:30:17 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 21:30:17 INFO  hermes_E2E_Stepdefinitions:76 - American Mushroom Burger product selected random
+2022-04-16 21:41:33 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 21:41:33 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 21:41:33 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 21:41:34 INFO  hermes_E2E_Stepdefinitions:76 - American Mushroom Burger product selected random
+2022-04-16 21:43:10 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 21:43:10 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 21:43:10 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 21:43:10 INFO  hermes_E2E_Stepdefinitions:76 - Long Chilli Cheese Burger product selected random
+2022-04-16 21:43:11 INFO  hermes_E2E_Stepdefinitions:92 - Delivery Options is selected
+2022-04-16 21:56:23 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 21:56:24 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 21:56:24 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 21:56:25 INFO  hermes_E2E_Stepdefinitions:91 - Delivery Options is selected
+2022-04-16 21:56:25 INFO  hermes_E2E_Stepdefinitions:99 -  Product order is confirmed 
+2022-04-16 21:59:30 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 21:59:30 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 21:59:30 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:00:11 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:00:11 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:00:11 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:03:21 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:03:21 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:03:21 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:03:22 INFO  hermes_E2E_Stepdefinitions:91 - Delivery Options is selected
+2022-04-16 22:03:23 INFO  hermes_E2E_Stepdefinitions:99 -  Product order is confirmed 
+2022-04-16 22:14:32 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:14:33 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:14:33 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:14:33 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burgerproduct is selected
+2022-04-16 22:14:34 INFO  hermes_E2E_Stepdefinitions:91 - Delivery Options is selected
+2022-04-16 22:14:35 INFO  hermes_E2E_Stepdefinitions:99 -  Product order is confirmed 
+2022-04-16 22:14:35 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:25 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-16 22:24:35 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:24:35 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:24:35 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:24:36 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:24:37 INFO  hermes_E2E_Stepdefinitions:91 - Delivery Options is selected
+2022-04-16 22:24:37 INFO  hermes_E2E_Stepdefinitions:99 -  Product order is confirmed 
+2022-04-16 22:24:37 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:25 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-16 22:24:41 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:24:41 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:24:41 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:24:41 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:27:09 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:27:09 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:27:09 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:27:10 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:27:10 INFO  hermes_E2E_Stepdefinitions:91 - Delivery Options is selected
+2022-04-16 22:27:11 INFO  hermes_E2E_Stepdefinitions:99 -  Product order is confirmed 
+2022-04-16 22:27:11 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:25 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-16 22:27:13 INFO  hermes_E2E_Stepdefinitions:44 - It has gone to the Hermes Home Page
+2022-04-16 22:27:14 INFO  hermes_E2E_Stepdefinitions:52 - American Burger is selected
+2022-04-16 22:27:14 INFO  hermes_E2E_Stepdefinitions:62 - American Burger category is verified
+2022-04-16 22:27:14 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Mexican Burger product is selected
+2022-04-16 22:29:02 INFO  hermes_E2E_Stepdefinitions:45 - It has gone to the Hermes Home Page
+2022-04-16 22:29:02 INFO  hermes_E2E_Stepdefinitions:53 - American Burger is selected
+2022-04-16 22:29:03 INFO  hermes_E2E_Stepdefinitions:63 - American Burger category is verified
+2022-04-16 22:29:03 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:29:03 INFO  hermes_E2E_Stepdefinitions:92 - Delivery Options is selected
+2022-04-16 22:29:04 INFO  hermes_E2E_Stepdefinitions:100 -  Product order is confirmed 
+2022-04-16 22:29:04 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:25 - Mindestbestellwert von 11,00 € noch nicht erreicht.is displayed
+2022-04-16 22:29:07 INFO  hermes_E2E_Stepdefinitions:45 - It has gone to the Hermes Home Page
+2022-04-16 22:29:07 INFO  hermes_E2E_Stepdefinitions:53 - American Burger is selected
+2022-04-16 22:29:07 INFO  hermes_E2E_Stepdefinitions:63 - American Burger category is verified
+2022-04-16 22:29:07 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Mexican Burger product is selected
+2022-04-16 22:33:09 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 22:33:09 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 22:33:09 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 22:33:10 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:33:10 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-16 22:33:11 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-16 22:33:11 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:25 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-16 22:33:14 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 22:33:14 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 22:33:14 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 22:33:15 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:50:37 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 22:50:38 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 22:50:38 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 22:50:39 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:50:41 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-16 22:50:42 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-16 22:50:42 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:25 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-16 22:50:46 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 22:50:46 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 22:50:47 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 22:50:47 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:55:20 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 22:55:20 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 22:55:20 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 22:55:21 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 22:55:34 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 22:55:34 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 22:55:35 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 22:55:35 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:01:47 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:01:48 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:01:48 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:01:48 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:37 - Delivery Options is selected
+2022-04-16 23:01:49 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:02:02 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:02:03 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:02:03 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:02:03 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:37 - Delivery Options is selected
+2022-04-16 23:02:03 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:03:50 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:03:50 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:03:50 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:03:50 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:38 - Delivery Options is selected
+2022-04-16 23:03:50 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:04:04 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:04:05 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:04:05 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:04:05 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:38 - Delivery Options is selected
+2022-04-16 23:04:05 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:04:46 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:04:46 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:04:46 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:04:47 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:38 - Delivery Options is selected
+2022-04-16 23:04:47 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:05:00 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:05:00 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:05:00 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:05:01 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:38 - Delivery Options is selected
+2022-04-16 23:05:01 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:10:53 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:10:53 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:10:53 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:10:53 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:37 - Delivery Options is selected
+2022-04-16 23:10:53 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:11:07 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:11:07 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:11:07 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:11:07 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:37 - Delivery Options is selected
+2022-04-16 23:11:07 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:14:32 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:14:33 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:14:33 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:14:33 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:37 - Delivery Options is selected
+2022-04-16 23:14:33 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:14:48 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:14:48 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:14:48 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:14:48 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:37 - Delivery Options is selected
+2022-04-16 23:14:48 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:16:31 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:16:31 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:16:32 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:16:32 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:38 - Delivery Options is selected
+2022-04-16 23:16:32 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:16:49 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:16:50 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:16:50 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:16:50 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:38 - Delivery Options is selected
+2022-04-16 23:16:50 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:23:01 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:23:01 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:23:01 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:23:02 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-16 23:23:17 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-16 23:23:17 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-16 23:23:17 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-16 23:23:17 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:05:48 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:05:48 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:05:48 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:05:49 INFO  hermes_E2E_Stepdefinitions:75 - American Mushroom Burger product selected random
+2022-04-17 00:05:51 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-17 00:05:51 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:05:52 INFO  hermes_E2E_Stepdefinitions:104 - American Mushroom Burger is  added to the cart
+2022-04-17 00:05:55 INFO  hermes_Cart_Stepdefinitions:33 - The Plus Icon is clicked (3)
+2022-04-17 00:05:55 INFO  hermes_Cart_Stepdefinitions:47 - The order number has increased
+2022-04-17 00:07:41 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:07:41 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:07:41 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:07:42 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:07:43 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:07:43 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:07:44 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:09:27 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:09:27 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:09:27 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:09:28 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:09:28 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:09:29 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:09:29 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:09:29 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:09:29 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:27 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-17 00:10:58 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:10:59 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:10:59 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:10:59 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:11:00 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:11:00 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:11:01 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:11:01 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:11:01 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:27 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-17 00:11:05 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:11:05 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:11:05 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:11:05 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:13:38 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:13:39 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:13:39 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:13:39 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:13:40 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:13:40 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:13:41 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Mexican Burger product is selected
+2022-04-17 00:13:41 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:13:41 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:27 - Minimum order amount of 11,00 € is reached.is displayed
+2022-04-17 00:18:54 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:18:54 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:18:54 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:18:54 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:18:55 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:18:55 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:20:48 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:20:48 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:20:49 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:20:49 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:20:49 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:20:50 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:20:50 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:30 - Minimum order amount of 11,00 € is not reached yet.is displayed
+2022-04-17 00:28:36 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:28:37 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:28:37 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:28:38 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-17 00:28:38 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-17 00:28:39 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:28:39 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Mexican Burger product is selected
+2022-04-17 00:28:40 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:28:40 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:35 - Since the order amount is over 11 €, the Order button is active

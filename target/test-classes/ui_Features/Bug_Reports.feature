@@ -1,8 +1,9 @@
 Feature: Bug Reports
+  Background:
+    Given User Goes to Hermes American Burger Pizza House home page
 
     Scenario: Bug Report 1; Inform box not clickable
 
-      Given User Goes to Hermes American Burger Pizza House home page
       Then Verify that page is American Burger Pizza House Home page
       When User selects "American Burger" category in the category menu
       Then Verify product list with category "American Burger"
@@ -18,7 +19,6 @@ Feature: Bug Reports
 
     Scenario: Bug Report 2; Failed to send feedback
 
-      Given User Goes to Hermes American Burger Pizza House home page
       When User clicks to Contact Us
       And User full fill email address and commentbox
       And User clicks to agreement checkbox
@@ -27,7 +27,6 @@ Feature: Bug Reports
 
     Scenario: Bug Report 3; %10 discount calculation error
 
-      Given User Goes to Hermes American Burger Pizza House home page
       When User selects "Hot Dogs" category in the category menu
       Then Verify product list with category "Hot Dogs"
       When User selects random a product from the product list

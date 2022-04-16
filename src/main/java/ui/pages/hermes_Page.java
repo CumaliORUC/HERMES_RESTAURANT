@@ -15,7 +15,7 @@ import java.util.List;
         @FindBy (css = "span.LanguageSwitcher__icon")
         public WebElement languageIcon;
 
-        @FindBy (xpath = "//li[@class='LanguageSwitcher__item']")
+        @FindBy (xpath = "//*[text()='English']")
         public WebElement englishLanguage;
 
         @FindBy (xpath = "//div[@class='text-mode-title-text']")
@@ -93,6 +93,22 @@ import java.util.List;
         @FindBy (xpath = "(//div[@class='value'])[2]")
         public WebElement discount_Price;
 
+        @FindBy (css = "div.Select2_Select2__1sdnK")
+        public WebElement delivery_address_dropdown_box;
+
+        @FindBy (xpath = "//li")
+        public WebElement augsburg_ZipCode;
+
+        @FindBy (css = "div.min-order-value")
+        public WebElement minimumOrderAmountMessage;
+
+        @FindBy (xpath = "//*[text()='Delivery']")
+        public WebElement delivery_ButtonHomePage;
+
+        @FindBy (css ="span.active")
+        public WebElement deliveryButton_Active;
+
+
         public List<WebElement> productPricesList() {
            List<WebElement> allPriceList=Driver.getDriver().findElements(By.cssSelector("div.total-price"));
            List <WebElement>cart_productPriceList=new ArrayList<>();
@@ -124,6 +140,8 @@ import java.util.List;
             }
             return product_Name_List;
         }
+
+
 
 }
 
