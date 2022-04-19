@@ -56,7 +56,7 @@ public class hermes_Cart_Stepdefinitions {
             hermes_page.minus_Icon.click();
             count_minus++;
         }
-        log.info("The Minus Icon is clicked (2)");
+        log.info("The Minus Icon is clicked");
     }
 
     @Then("Verify that the order number has decreased")
@@ -95,8 +95,9 @@ public class hermes_Cart_Stepdefinitions {
             total_price+=price_double_List.get(i);              //In this method; All product prices are added together to find the total price
         }
 
-        System.out.println("This total price is double = "+total_price );  //this is double now for Assertion we will convert to String
+        //System.out.println("This total price is double = "+total_price );  //this is double now for Assertion we will convert to String
         String expected_total_Price=(total_price+"").substring(0,4).replace(".",",");   // and we will replace "." to "," for matching structure.
+        System.out.println("Total price should be= "+expected_total_Price);
 
         String actual_total_price=hermes_page.subTotal_Price.getText().substring(0,4);
 
@@ -105,6 +106,28 @@ public class hermes_Cart_Stepdefinitions {
         log.info("Subtotal Price and Product Total price is same");
 
     }
+    @When("User clicks to minus icon for remove the product")
+    public void userClicksToMinusIconForRemoveTheProduct() {
+        hermes_page.minus_Icon.click();
+        log.info(" Minus Icon is clicked for removing the product");
+    }
 
+    @Then("User verify that {string} message appeared")
+    public void userVerifyThatMessageAppeared(String remove_Message) {
+
+        Assert.assertTrue(hermes_page.delete_Message.isDisplayed());
+        log.info(remove_Message+ " message is displayed");
+    }
+
+    @When("User clicks to remove confirm button")
+    public void userClicksToRemoveConfirmButton() {
+        hermes_page.delete_Confirm_Button.click();
+    }
+
+    @Then("User verify that item removed from cart and {string} message is shown on cart")
+    public void userVerifyThatItemRemovedFromCartAndMessageIsShownOnCart(String empty_Message) {
+        Assert.assertTrue(hermes_page.cart_empty_Message.isDisplayed());
+        log.info(empty_Message + "message is displayed");
+    }
 
 }

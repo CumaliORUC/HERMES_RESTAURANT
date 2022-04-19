@@ -108,6 +108,17 @@ public class hermes_Page {
     @FindBy (css ="span.active")
     public WebElement deliveryButton_Active;
 
+    @FindBy (css = "div#confirm-delete-state")
+    public WebElement delete_Message;
+
+    @FindBy (xpath = "(//button[@class='button-order positive-action'])[3]")
+    public WebElement delete_Confirm_Button;
+
+    @FindBy (xpath = "(//div[@class='title'])[1]")
+    public WebElement cart_empty_Message;
+
+
+
 
     public List<WebElement> productPricesList() {
        List<WebElement> allPriceList=Driver.getDriver().findElements(By.cssSelector("div.total-price"));

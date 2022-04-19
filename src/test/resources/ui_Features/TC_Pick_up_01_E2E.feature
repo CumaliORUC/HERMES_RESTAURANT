@@ -1,6 +1,7 @@
+@e2e
 Feature: End to End
-@wip
-  Scenario: Ordering with Pick Up
+
+  Scenario: TC_Pick_up_01, Ordering with Pick Up
     Given User Goes to Hermes American Burger Pizza House home page
     Then Verify that page is American Burger Pizza House Home page
     When User selects "American Burger" category in the category menu

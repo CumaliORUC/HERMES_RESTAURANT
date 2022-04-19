@@ -1,3 +1,4 @@
+@min_amount
 Feature: Minimum Amount Order Scenarios
 
   Background:
@@ -6,13 +7,15 @@ Feature: Minimum Amount Order Scenarios
     When User selects "American Burger" category in the category menu
     Then Verify product list with category "American Burger"
 
-    Scenario: Ordering below minimum amount Order
+  @below_amount
+    Scenario: TC_Minimum_Order_01, Ordering Below Minimum Amount Order
 
       When User selects "Long Chilli Cheese Burger" product from the product list
       And  User select Delivery type as "Delivery"
       And User clicks to Confirm
       Then Verify that order is not sufficient for minimum ordering
 
+  @below_amount2
   Scenario: Ordering two product below minimum amount
 
       When User selects "Long Chilli Cheese Burger" product from the product list
@@ -22,8 +25,8 @@ Feature: Minimum Amount Order Scenarios
       And User clicks to Confirm
       Then Verify that order is not sufficient for minimum ordering
 
-
-  Scenario: Ordering two product over minimum amount
+  @over_amount
+  Scenario: TC_Minimum_Order_02, Ordering Above Minimum Amount Order
 
       When User selects "Long Chilli Cheese Burger" product from the product list
       And  User select Delivery type as "Delivery"

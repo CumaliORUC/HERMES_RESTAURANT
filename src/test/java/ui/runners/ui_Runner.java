@@ -14,12 +14,14 @@ import org.junit.runner.RunWith;
         features="src/test/resources/ui_Features",
         glue= "ui/stepdefinitions",
 
-        tags="@bug-1",   // "@bug-2", "@bug-3"
+        tags="@e2e",    // We can use these tags for scenarios;
+                        //"@issue-03" "@issue-04", "@@issue-05", "@e2e", "@cart_Scenarios", "@min_amount"
 
+        publish = true,
 
         dryRun=false
 
 )
-public class TestRunner1 {
+public class ui_Runner {
 
 }

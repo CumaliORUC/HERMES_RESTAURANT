@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="24.055">
-    <testcase classname="Bug Reports" name="Bug Report 1; Inform box not clickable" time="23.582">
-        <failure message="" type="java.lang.AssertionError"><![CDATA[Given User Goes to Hermes American Burger Pizza House home page.............passed
-Then Verify that page is American Burger Pizza House Home page..............passed
-When User selects "American Burger" category in the category menu...........passed
-Then Verify product list with category "American Burger"....................passed
-When User selects random a product from the product list....................passed
-And User select Delivery type as "Pickup"...................................passed
-And User clicks to Confirm..................................................passed
-Then Verify that the selected product is in the cart........................passed
-And User clicks to Order now................................................passed
-Then Verify that address page is displayed..................................passed
-When User full fills the address boxes......................................passed
-And User clicks to Checkout.................................................passed
-Then User clicks to inform checkbox.........................................failed
-
-StackTrace:
-java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at ui.stepdefinitions.bugReport_Stepdefinitions.user_clicks_to_inform_checkbox(bugReport_Stepdefinitions.java:18)
-	at ✽.User clicks to inform checkbox(file:///C:/Users/TR/Desktop/IT%20COURSE/HERMES_RESTAURANT/src/test/resources/ui_Features/Bug_Reports.feature:19)
-]]></failure>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="8.468">
+    <testcase classname="American Burger Url_Page Api Test with Object Mapper Method" name="Assert Status Code" time="4.89">
+        <system-out><![CDATA[Given Send Get request for hermes get-single-product........................passed
+Then Assert status code is 200..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="American Burger Url_Page Api Test with Object Mapper Method" name="Assert Out Body" time="1.64">
+        <system-out><![CDATA[Given Send Get request for hermes get-single-product........................passed
+Then Assert success is true.................................................passed
+Then Assert checksum is "63103a1b8bb4684e57649297523a2134"..................passed
+Then Assert branch_id is 159................................................passed
+And Assert product_id is 25448..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="American Burger Url_Page Api Test with Object Mapper Method" name="Assert Inner Body" time="0.546">
+        <system-out><![CDATA[Given Send Get request for hermes get-single-product........................passed
+Then Assert d name is "American Burger".....................................passed
+Then Assert d isCombo is false..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="American Burger Url_Page Api Test with Object Mapper Method" name="Assert Additives" time="0.453">
+        <system-out><![CDATA[Given Send Get request for hermes get-single-product........................passed
+Then Assert Additives has "1563"............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="American Burger Url_Page Api Test with Object Mapper Method" name="Assert Additives 2" time="0.437">
+        <system-out><![CDATA[Given Send Get request for hermes get-single-product........................passed
+Then Assert Additives has "1574"............................................passed
+]]></system-out>
     </testcase>
 </testsuite>

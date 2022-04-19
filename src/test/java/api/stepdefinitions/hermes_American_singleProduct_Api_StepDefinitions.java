@@ -10,12 +10,12 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasItems;
 
-public class singleProduct_Api_StepDefinitions {
-    Logger log = (Logger) LogManager.getLogger(singleProduct_Api_StepDefinitions.class);
+public class hermes_American_singleProduct_Api_StepDefinitions {
+    Logger log = (Logger) LogManager.getLogger(hermes_American_singleProduct_Api_StepDefinitions.class);
     Response response;
 
-    @Given("Send Get request for hermes get-single-product")
-    public void send_get_request_for_hermes_get_single_product() {
+    @Given("Send Get request for American get-single-product baseUrl")
+    public void send_get_request_for_american_get_single_product() {
         String baseUrl = "https://dev.delivery-app.app-smart.services/api2.5/cdMiu0eNA2OJ58Z3/get-single-product/159/25448";
 
         response = given()

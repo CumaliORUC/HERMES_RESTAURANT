@@ -1,0 +1,171 @@
+2022-04-19 11:39:22 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 11:39:22 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 11:39:23 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 11:39:23 INFO  hermes_E2E_Stepdefinitions:75 - American Burger product selected random
+2022-04-19 11:39:24 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 11:39:24 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 11:39:24 INFO  hermes_E2E_Stepdefinitions:104 - American Burger is  added to the cart
+2022-04-19 11:39:25 INFO  hermes_E2E_Stepdefinitions:109 - Order Now button is clicked
+2022-04-19 11:39:25 INFO  hermes_E2E_Stepdefinitions:115 - Address page is displayed
+2022-04-19 11:39:27 INFO  hermes_E2E_Stepdefinitions:135 - Address boxes is full filled
+2022-04-19 11:39:28 INFO  hermes_E2E_Stepdefinitions:141 - CheckOut button is clicked
+2022-04-19 11:39:28 INFO  hermes_E2E_Stepdefinitions:147 - Cash button is selected
+2022-04-19 11:39:28 INFO  hermes_E2E_Stepdefinitions:154 - Prices are same
+2022-04-19 11:39:28 INFO  hermes_E2E_Stepdefinitions:160 - Place My Order button is clicked
+2022-04-19 11:39:29 INFO  hermes_E2E_Stepdefinitions:166 - Your order was successful! is displayed
+2022-04-19 11:40:21 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 11:40:21 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 11:40:21 INFO  singleProduct_Api_StepDefinitions:35 - =====Status Code is same as  200
+2022-04-19 11:40:22 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 11:40:22 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:42 - body success is verified as true
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:49 - body checksum is verified as 63103a1b8bb4684e57649297523a2134
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:56 - body branch_id is verified as 159
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:62 - body product_id is verified as 25448
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:69 - body d.name verified as American Burger
+2022-04-19 11:40:23 INFO  singleProduct_Api_StepDefinitions:77 - body d.isCombo verified as false
+2022-04-19 11:40:24 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 11:40:24 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 11:40:24 INFO  singleProduct_Api_StepDefinitions:83 - body d.isCombo verified as 1563
+2022-04-19 11:40:24 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 11:40:24 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 11:40:24 INFO  singleProduct_Api_StepDefinitions:83 - body d.isCombo verified as 1574
+2022-04-19 11:53:58 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 11:53:58 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 11:53:58 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 11:53:59 INFO  hermes_E2E_Stepdefinitions:75 - American Bacon Flavour product selected random
+2022-04-19 11:54:00 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 11:54:00 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 11:54:00 INFO  hermes_E2E_Stepdefinitions:104 - American Bacon Flavour is  added to the cart
+2022-04-19 11:54:01 INFO  hermes_E2E_Stepdefinitions:109 - Order Now button is clicked
+2022-04-19 11:54:01 INFO  hermes_E2E_Stepdefinitions:115 - Address page is displayed
+2022-04-19 11:54:08 INFO  hermes_E2E_Stepdefinitions:135 - Address boxes is full filled
+2022-04-19 11:54:08 INFO  hermes_E2E_Stepdefinitions:141 - CheckOut button is clicked
+2022-04-19 11:54:08 INFO  hermes_E2E_Stepdefinitions:147 - Cash button is selected
+2022-04-19 11:54:08 INFO  hermes_E2E_Stepdefinitions:154 - Prices are same
+2022-04-19 11:54:08 INFO  hermes_E2E_Stepdefinitions:160 - Place My Order button is clicked
+2022-04-19 11:54:10 INFO  hermes_E2E_Stepdefinitions:166 - Your order was successful! is displayed
+2022-04-19 11:59:20 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 11:59:21 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 11:59:21 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 11:59:21 INFO  hermes_E2E_Stepdefinitions:75 - American Burger product selected random
+2022-04-19 11:59:22 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 11:59:22 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 11:59:23 INFO  hermes_E2E_Stepdefinitions:104 - American Burger is  added to the cart
+2022-04-19 11:59:23 INFO  hermes_E2E_Stepdefinitions:109 - Order Now button is clicked
+2022-04-19 11:59:23 INFO  hermes_E2E_Stepdefinitions:115 - Address page is displayed
+2022-04-19 11:59:30 INFO  hermes_E2E_Stepdefinitions:135 - Address boxes is full filled
+2022-04-19 11:59:30 INFO  hermes_E2E_Stepdefinitions:141 - CheckOut button is clicked
+2022-04-19 11:59:30 INFO  hermes_E2E_Stepdefinitions:147 - Cash button is selected
+2022-04-19 11:59:30 INFO  hermes_E2E_Stepdefinitions:154 - Prices are same
+2022-04-19 11:59:30 INFO  hermes_E2E_Stepdefinitions:160 - Place My Order button is clicked
+2022-04-19 11:59:32 INFO  hermes_E2E_Stepdefinitions:166 - Your order was successful! is displayed
+2022-04-19 12:25:11 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:25:11 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:25:12 INFO  singleProduct_Api_StepDefinitions:35 - =====Status Code is same as  200
+2022-04-19 12:25:12 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:25:12 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:42 - body success is verified as true
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:49 - body checksum is verified as 63103a1b8bb4684e57649297523a2134
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:56 - body branch_id is verified as 159
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:62 - body product_id is verified as 25448
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:69 - body d.name verified as American Burger
+2022-04-19 12:25:14 INFO  singleProduct_Api_StepDefinitions:77 - body d.isCombo verified as false
+2022-04-19 12:25:15 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:25:15 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:25:15 INFO  singleProduct_Api_StepDefinitions:83 - body d.isCombo verified as 1563
+2022-04-19 12:25:15 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:25:15 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:25:15 INFO  singleProduct_Api_StepDefinitions:83 - body d.isCombo verified as 1574
+2022-04-19 12:31:10 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:31:10 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:31:11 INFO  singleProduct_Api_StepDefinitions:35 - =====Status Code is same as  200
+2022-04-19 12:31:11 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:31:11 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:31:12 INFO  singleProduct_Api_StepDefinitions:42 - body success is verified as true
+2022-04-19 12:31:12 INFO  singleProduct_Api_StepDefinitions:49 - body checksum is verified as 63103a1b8bb4684e57649297523a2134
+2022-04-19 12:31:13 INFO  singleProduct_Api_StepDefinitions:56 - body branch_id is verified as 159
+2022-04-19 12:31:13 INFO  singleProduct_Api_StepDefinitions:62 - body product_id is verified as 25448
+2022-04-19 12:31:13 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:31:13 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:31:13 INFO  singleProduct_Api_StepDefinitions:69 - body d.name verified as American Burger
+2022-04-19 12:31:13 INFO  singleProduct_Api_StepDefinitions:77 - body d.isCombo verified as false
+2022-04-19 12:31:14 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:31:14 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:31:14 INFO  singleProduct_Api_StepDefinitions:83 - body d.isCombo verified as 1563
+2022-04-19 12:31:14 INFO  singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 12:31:14 INFO  singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 12:31:14 INFO  singleProduct_Api_StepDefinitions:83 - body d.isCombo verified as 1574
+2022-04-19 12:49:37 INFO  bugReport_Stepdefinitions:25 - Contact Us is clicked
+2022-04-19 12:49:39 INFO  bugReport_Stepdefinitions:32 - email address and commentbox are filled
+2022-04-19 12:49:39 INFO  bugReport_Stepdefinitions:38 - Agreement checkbox is clicked
+2022-04-19 12:49:39 INFO  bugReport_Stepdefinitions:44 - Sent feedbacks button is clicked 
+2022-04-19 13:36:56 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 13:36:56 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 13:36:56 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 13:36:56 INFO  hermes_E2E_Stepdefinitions:75 - American Bacon Flavour product selected random
+2022-04-19 13:36:57 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 13:36:58 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 13:36:58 INFO  hermes_E2E_Stepdefinitions:104 - American Bacon Flavour is  added to the cart
+2022-04-19 13:36:58 INFO  hermes_Cart_Stepdefinitions:105 - Subtotal Price and Product Total price is same
+2022-04-19 13:36:58 INFO  hermes_E2E_Stepdefinitions:75 - Mac`N Cheese Deluxe Burger product selected random
+2022-04-19 13:36:58 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 13:36:59 INFO  hermes_E2E_Stepdefinitions:104 - Mac`N Cheese Deluxe Burger is  added to the cart
+2022-04-19 13:36:59 INFO  hermes_Cart_Stepdefinitions:105 - Subtotal Price and Product Total price is same
+2022-04-19 13:41:51 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 13:41:51 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 13:41:51 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 13:41:51 INFO  hermes_E2E_Stepdefinitions:75 - American Barbecue Burger product selected random
+2022-04-19 13:41:52 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 13:41:52 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 13:41:52 INFO  hermes_E2E_Stepdefinitions:104 - American Barbecue Burger is  added to the cart
+2022-04-19 13:41:52 INFO  hermes_Cart_Stepdefinitions:106 - Subtotal Price and Product Total price is same
+2022-04-19 13:41:52 INFO  hermes_E2E_Stepdefinitions:75 - American Garlic Deluxe product selected random
+2022-04-19 13:41:53 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 13:41:53 INFO  hermes_E2E_Stepdefinitions:104 - American Garlic Deluxe is  added to the cart
+2022-04-19 13:41:53 INFO  hermes_Cart_Stepdefinitions:106 - Subtotal Price and Product Total price is same
+2022-04-19 14:06:12 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 14:06:12 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 14:06:12 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 14:06:12 INFO  hermes_E2E_Stepdefinitions:75 - American Tortilla Burger (Hot) product selected random
+2022-04-19 14:06:13 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 14:06:13 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 14:06:14 INFO  hermes_E2E_Stepdefinitions:104 - American Tortilla Burger (Hot) is  added to the cart
+2022-04-19 14:11:27 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 14:11:28 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 14:11:28 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 14:11:28 INFO  hermes_E2E_Stepdefinitions:75 - Aux-Burger product selected random
+2022-04-19 14:11:29 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 14:11:29 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 14:11:29 INFO  hermes_E2E_Stepdefinitions:104 - Aux-Burger is  added to the cart
+2022-04-19 14:11:29 INFO  hermes_Cart_Stepdefinitions:112 -  Minus Icon is clicked for removing the product
+2022-04-19 14:11:30 INFO  hermes_Cart_Stepdefinitions:119 - Are you sure you want to remove this product? message is displayed
+2022-04-19 14:11:30 INFO  hermes_Cart_Stepdefinitions:130 - Your shopping cart is emptymessage is displayed
+2022-04-19 14:41:11 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 14:41:12 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 14:41:12 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 14:41:12 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Long Chilli Cheese Burger product is selected
+2022-04-19 14:41:13 INFO  hermes_E2E_Stepdefinitions:90 - Delivery Options is selected
+2022-04-19 14:41:13 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 14:41:14 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Mexican Burger product is selected
+2022-04-19 14:41:14 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 14:41:14 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:35 - Since the order amount is over 11 €, the Order button is active
+2022-04-19 14:50:04 INFO  hermes_Api_Stepdefinitons:102 - Response is created
+2022-04-19 14:50:04 INFO  hermes_Api_Stepdefinitons:162 - Expected Data created in JsonUtil Format
+2022-04-19 14:50:05 INFO  hermes_Api_Stepdefinitons:168 - Response is converted Data for Actual Data (JsonUtil)
+2022-04-19 14:50:05 INFO  hermes_Api_Stepdefinitons:184 - Content Id is verified. It is same as 1957
+2022-04-19 14:50:05 INFO  hermes_Api_Stepdefinitons:191 - Expected data is 1957,  Actual data is 1957  They are same
+2022-04-19 14:50:05 INFO  hermes_Api_Stepdefinitons:197 - Content title is verified. It is same as Enjoy Pizza Delmenhorst
+2022-04-19 17:41:26 INFO  hermes_American_singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-19 17:41:26 INFO  hermes_American_singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-19 17:41:28 INFO  hermes_American_singleProduct_Api_StepDefinitions:42 - body success is verified as true
+2022-04-19 17:41:28 INFO  hermes_American_singleProduct_Api_StepDefinitions:49 - body checksum is verified as 63103a1b8bb4684e57649297523a2134
+2022-04-19 17:41:28 INFO  hermes_American_singleProduct_Api_StepDefinitions:56 - body branch_id is verified as 159
+2022-04-19 17:41:28 INFO  hermes_American_singleProduct_Api_StepDefinitions:62 - body product_id is verified as 25448
+2022-04-20 00:14:23 INFO  hermes_American_singleProduct_Api_StepDefinitions:25 - =====Response  is success============
+2022-04-20 00:14:23 INFO  hermes_American_singleProduct_Api_StepDefinitions:28 - Response  is success
+2022-04-20 00:14:23 INFO  hermes_American_singleProduct_Api_StepDefinitions:35 - =====Status Code is same as  200

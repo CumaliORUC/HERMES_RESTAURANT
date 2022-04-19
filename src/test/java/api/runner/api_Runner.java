@@ -20,5 +20,5 @@ import org.junit.runner.RunWith;
         publish=true,
         dryRun=false
 )
-public class ApiRunner {
+public class api_Runner {
 }
