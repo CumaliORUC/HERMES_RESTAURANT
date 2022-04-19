@@ -2,7 +2,7 @@ Feature: Bug Reports
 
   Background:
     Given User Goes to Hermes American Burger Pizza House home page
-
+@bug-1
     Scenario: Bug Report 1; Inform box not clickable
 
       Then Verify that page is American Burger Pizza House Home page

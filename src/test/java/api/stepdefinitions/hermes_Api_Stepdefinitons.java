@@ -1,19 +1,12 @@
 package api.stepdefinitions;
 
 import api.utulities.TestBaseHermes;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.junit.Assert;
-import ui.stepdefinitions.bugReport_Stepdefinitions;
-
-import java.util.HashMap;
-import java.util.List;
 
 import static io.restassured.RestAssured.given;
 

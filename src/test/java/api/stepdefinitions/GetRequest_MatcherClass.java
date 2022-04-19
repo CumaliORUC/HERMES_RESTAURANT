@@ -4,8 +4,10 @@ import io.restassured.response.Response;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.junit.Test;
+
+import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
-import static io.restassured.RestAssured.*;
+
 public class GetRequest_MatcherClass {
     Logger log = (Logger) LogManager.getLogger(GetRequest_MatcherClass.class);
 

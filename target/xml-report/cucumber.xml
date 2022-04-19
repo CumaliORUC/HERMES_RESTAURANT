@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="8.281">
-    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Assert status code" time="3.952">
-        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
-When Create your expectedData in JsonUtil_Format............................passed
-Then Verify that status code is 200.........................................passed
-]]></system-out>
-    </testcase>
-    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Verify content data" time="0.703">
-        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
-When Create your expectedData in JsonUtil_Format............................passed
-Then Verify that content id is "1957".......................................passed
-Then Verify that the content "id" is the same as the expected data and response data.passed
-Then Verify that content title is "Enjoy Pizza Delmenhorst".................passed
-]]></system-out>
-    </testcase>
-    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Inner Body Assertion" time="1.781">
-        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
-When Create your expectedData in JsonUtil_Format............................passed
-Then Verify that the response payment Methods id list size is the same as expected.passed
-Then Verify that the response payment Methods id list has expected list.....passed
-]]></system-out>
-    </testcase>
-    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Inner Body Json Method" time="0.828">
-        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
-When Create your expectedData in JsonUtil_Format............................passed
-Then Verify that response payment Methods id_1 name is "bar"................passed
-]]></system-out>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="24.055">
+    <testcase classname="Bug Reports" name="Bug Report 1; Inform box not clickable" time="23.582">
+        <failure message="" type="java.lang.AssertionError"><![CDATA[Given User Goes to Hermes American Burger Pizza House home page.............passed
+Then Verify that page is American Burger Pizza House Home page..............passed
+When User selects "American Burger" category in the category menu...........passed
+Then Verify product list with category "American Burger"....................passed
+When User selects random a product from the product list....................passed
+And User select Delivery type as "Pickup"...................................passed
+And User clicks to Confirm..................................................passed
+Then Verify that the selected product is in the cart........................passed
+And User clicks to Order now................................................passed
+Then Verify that address page is displayed..................................passed
+When User full fills the address boxes......................................passed
+And User clicks to Checkout.................................................passed
+Then User clicks to inform checkbox.........................................failed
+
+StackTrace:
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at ui.stepdefinitions.bugReport_Stepdefinitions.user_clicks_to_inform_checkbox(bugReport_Stepdefinitions.java:18)
+	at ✽.User clicks to inform checkbox(file:///C:/Users/TR/Desktop/IT%20COURSE/HERMES_RESTAURANT/src/test/resources/ui_Features/Bug_Reports.feature:19)
+]]></failure>
     </testcase>
 </testsuite>

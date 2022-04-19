@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features="src/test/resources/ui_Features",
         glue= "ui/stepdefinitions",
 
-        tags="@cip",   // work in progress
+        tags="@bug-1",   // "@bug-2", "@bug-3"
 
 
         dryRun=false

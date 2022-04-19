@@ -2,7 +2,7 @@ Feature: Bug Reports
 
   Background:
     Given User Goes to Hermes American Burger Pizza House home page
-@"Bug-1"
+@bug-1
     Scenario: Bug Report 1; Inform box not clickable
 
       Then Verify that page is American Burger Pizza House Home page
@@ -17,7 +17,7 @@ Feature: Bug Reports
       When User full fills the address boxes
       And User clicks to Checkout
       Then User clicks to inform checkbox
-
+  @bug-2
     Scenario: Bug Report 2; Failed to send feedback
 
       When User clicks to Contact Us
@@ -25,7 +25,7 @@ Feature: Bug Reports
       And User clicks to agreement checkbox
       And User clicks to sent feed back
       Then Verify that Successful message is displayed
-
+  @bug-3
     Scenario: Bug Report 3; %10 discount calculation error
 
       When User selects "Hot Dogs" category in the category menu
