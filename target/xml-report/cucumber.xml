@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="8.281">
+    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Assert status code" time="3.952">
+        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
+When Create your expectedData in JsonUtil_Format............................passed
+Then Verify that status code is 200.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Verify content data" time="0.703">
+        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
+When Create your expectedData in JsonUtil_Format............................passed
+Then Verify that content id is "1957".......................................passed
+Then Verify that the content "id" is the same as the expected data and response data.passed
+Then Verify that content title is "Enjoy Pizza Delmenhorst".................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Inner Body Assertion" time="1.781">
+        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
+When Create your expectedData in JsonUtil_Format............................passed
+Then Verify that the response payment Methods id list size is the same as expected.passed
+Then Verify that the response payment Methods id list has expected list.....passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Bremen Url_Page Api Test with Object Mapper Method" name="Inner Body Json Method" time="0.828">
+        <system-out><![CDATA[Given Send Get request for Bremen Url_Page paypal address...................passed
+When Create your expectedData in JsonUtil_Format............................passed
+Then Verify that response payment Methods id_1 name is "bar"................passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,4 +1,5 @@
 Feature: Minimum Amount Order Scenarios
+
   Background:
     Given User Goes to Hermes American Burger Pizza House home page
     Then Verify that page is American Burger Pizza House Home page
@@ -13,6 +14,7 @@ Feature: Minimum Amount Order Scenarios
       Then Verify that order is not sufficient for minimum ordering
 
   Scenario: Ordering two product below minimum amount
+
       When User selects "Long Chilli Cheese Burger" product from the product list
       And  User select Delivery type as "Delivery"
       And User clicks to Confirm
@@ -22,6 +24,7 @@ Feature: Minimum Amount Order Scenarios
 
 
   Scenario: Ordering two product over minimum amount
+
       When User selects "Long Chilli Cheese Burger" product from the product list
       And  User select Delivery type as "Delivery"
       And User clicks to Confirm

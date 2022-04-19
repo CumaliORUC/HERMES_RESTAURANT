@@ -1,0 +1,327 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3468634900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Send Get request for Bremen Url_Page paypal address",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.sendGetRequestForBremenUrl_PagePaypalAddress()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 234367100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Create your expectedData in JsonUtil_Format",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.createYourExpectedDataInJsonUtil_Format()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-19T07:54:43.151Z",
+        "line": 7,
+        "name": "Assert status code",
+        "description": "",
+        "id": "bremen-url-page-api-test-with-object-mapper-method;assert-status-code",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify that status code is 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 27
+                }
+              ],
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatStatusCodeIs(int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@bremen_Url"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 671849700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Send Get request for Bremen Url_Page paypal address",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.sendGetRequestForBremenUrl_PagePaypalAddress()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15620800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Create your expectedData in JsonUtil_Format",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.createYourExpectedDataInJsonUtil_Format()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-19T07:54:47.229Z",
+        "line": 10,
+        "name": "Verify content data",
+        "description": "",
+        "id": "bremen-url-page-api-test-with-object-mapper-method;verify-content-data",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Verify that content id is \"1957\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1957\"",
+                  "offset": 26
+                }
+              ],
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatContentIdIs(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Verify that the content \"id\" is the same as the expected data and response data",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"id\"",
+                  "offset": 24
+                }
+              ],
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatTheContentIDIsTheSameAsTheExpectedDataAndResponseData(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Verify that content title is \"Enjoy Pizza Delmenhorst\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Enjoy Pizza Delmenhorst\"",
+                  "offset": 29
+                }
+              ],
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatContentTitleIs(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@bremen_Url"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 640601100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Send Get request for Bremen Url_Page paypal address",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.sendGetRequestForBremenUrl_PagePaypalAddress()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15625900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Create your expectedData in JsonUtil_Format",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.createYourExpectedDataInJsonUtil_Format()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-19T07:54:47.948Z",
+        "line": 15,
+        "name": "Inner Body Assertion",
+        "description": "",
+        "id": "bremen-url-page-api-test-with-object-mapper-method;inner-body-assertion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1124962100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Verify that the response payment Methods id list size is the same as expected",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatTheResponsePaymentMethodsIdListSizeIsTheSameAsExpected()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Verify that the response payment Methods id list has expected list",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatTheResponsePaymentMethodsIdListHasExpectedList()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@bremen_Url"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 624986700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Send Get request for Bremen Url_Page paypal address",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.sendGetRequestForBremenUrl_PagePaypalAddress()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15617000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Create your expectedData in JsonUtil_Format",
+            "match": {
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.createYourExpectedDataInJsonUtil_Format()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-19T07:54:49.760Z",
+        "line": 19,
+        "name": "Inner Body Json Method",
+        "description": "",
+        "id": "bremen-url-page-api-test-with-object-mapper-method;inner-body-json-method",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 187494900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Verify that response payment Methods id_1 name is \"bar\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"bar\"",
+                  "offset": 50
+                }
+              ],
+              "location": "api.stepdefinitions.bremen_Page_paypal_Api_StepDefinitions.verifyThatResponsePaymentMethodsIdNameIs(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@bremen_Url"
+          }
+        ]
+      }
+    ],
+    "name": "Bremen Url_Page Api Test with Object Mapper Method",
+    "description": "",
+    "id": "bremen-url-page-api-test-with-object-mapper-method",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/api_Feautures/hermes_Bremen_Paypal.Api.feature",
+    "tags": [
+      {
+        "name": "@bremen_Url",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

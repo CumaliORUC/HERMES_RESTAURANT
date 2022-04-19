@@ -1,4 +1,5 @@
 Feature: Bug Reports
+
   Background:
     Given User Goes to Hermes American Burger Pizza House home page
 

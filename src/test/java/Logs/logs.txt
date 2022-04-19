@@ -969,3 +969,208 @@
 2022-04-17 00:28:39 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:20 - Mexican Burger product is selected
 2022-04-17 00:28:40 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
 2022-04-17 00:28:40 INFO  hermes_Minimum_Order_Amoun_Stepdefinitions:35 - Since the order amount is over 11 €, the Order button is active
+2022-04-17 00:41:37 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 00:41:37 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 00:41:38 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 00:41:38 INFO  hermes_E2E_Stepdefinitions:75 - American Mushroom Burger product selected random
+2022-04-17 00:41:39 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-17 00:41:40 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 00:41:40 INFO  hermes_E2E_Stepdefinitions:104 - American Mushroom Burger is  added to the cart
+2022-04-17 00:41:41 INFO  hermes_E2E_Stepdefinitions:109 - Order Now button is clicked
+2022-04-17 00:41:41 INFO  hermes_E2E_Stepdefinitions:115 - Address page is displayed
+2022-04-17 00:41:47 INFO  hermes_E2E_Stepdefinitions:135 - Address boxes is full filled
+2022-04-17 00:41:47 INFO  hermes_E2E_Stepdefinitions:141 - CheckOut button is clicked
+2022-04-17 00:41:48 INFO  hermes_E2E_Stepdefinitions:147 - Cash button is selected
+2022-04-17 00:41:48 INFO  hermes_E2E_Stepdefinitions:154 - Prices are same
+2022-04-17 00:41:48 INFO  hermes_E2E_Stepdefinitions:160 - Place My Order button is clicked
+2022-04-17 00:41:50 INFO  hermes_E2E_Stepdefinitions:166 - Your order was successful! is displayed
+2022-04-17 12:39:22 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-17 12:39:22 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-17 12:39:23 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-17 12:39:23 INFO  hermes_E2E_Stepdefinitions:75 - Aux-Burger product selected random
+2022-04-17 12:39:24 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-17 12:39:24 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 12:39:24 INFO  hermes_E2E_Stepdefinitions:104 - Aux-Burger is  added to the cart
+2022-04-17 12:39:25 INFO  hermes_E2E_Stepdefinitions:109 - Order Now button is clicked
+2022-04-17 12:39:25 INFO  hermes_E2E_Stepdefinitions:115 - Address page is displayed
+2022-04-17 12:39:31 INFO  hermes_E2E_Stepdefinitions:135 - Address boxes is full filled
+2022-04-17 12:39:31 INFO  hermes_E2E_Stepdefinitions:141 - CheckOut button is clicked
+2022-04-17 12:39:32 INFO  hermes_E2E_Stepdefinitions:147 - Cash button is selected
+2022-04-17 12:39:32 INFO  hermes_E2E_Stepdefinitions:154 - Prices are same
+2022-04-17 12:39:32 INFO  hermes_E2E_Stepdefinitions:160 - Place My Order button is clicked
+2022-04-17 12:39:34 INFO  hermes_E2E_Stepdefinitions:166 - Your order was successful! is displayed
+2022-04-17 12:41:39 INFO  hermes_E2E_Stepdefinitions:51 - Hot Dogs is selected
+2022-04-17 12:41:39 INFO  hermes_E2E_Stepdefinitions:61 - Hot Dogs category is verified
+2022-04-17 12:41:39 INFO  hermes_E2E_Stepdefinitions:75 - Red Delight Dog product selected random
+2022-04-17 12:41:40 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-17 12:41:40 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 12:41:41 INFO  hermes_E2E_Stepdefinitions:104 - Red Delight Dog is  added to the cart
+2022-04-17 12:41:41 INFO  hermes_E2E_Stepdefinitions:75 - Bacon Flavour Dog product selected random
+2022-04-17 12:41:41 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 12:41:41 INFO  hermes_E2E_Stepdefinitions:104 - Bacon Flavour Dog is  added to the cart
+2022-04-17 12:43:00 INFO  hermes_E2E_Stepdefinitions:51 - Hot Dogs is selected
+2022-04-17 12:43:00 INFO  hermes_E2E_Stepdefinitions:61 - Hot Dogs category is verified
+2022-04-17 12:43:00 INFO  hermes_E2E_Stepdefinitions:75 - All American Dog product selected random
+2022-04-17 12:43:01 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-17 12:43:01 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 12:43:01 INFO  hermes_E2E_Stepdefinitions:104 - All American Dog is  added to the cart
+2022-04-17 12:43:01 INFO  hermes_E2E_Stepdefinitions:75 - All American Dog product selected random
+2022-04-17 12:43:02 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-17 12:43:02 INFO  hermes_E2E_Stepdefinitions:104 - All American Dog is  added to the cart
+2022-04-17 15:37:21 INFO  hermes_Api_Stepdefinitons:34 - Status Code is verified
+2022-04-18 12:55:16 INFO  hermes_Api_Stepdefinitons:95 - Response is created
+2022-04-18 12:55:16 INFO  hermes_Api_Stepdefinitons:164 - Expected Data created in JsonUtil Format
+2022-04-18 12:57:18 INFO  hermes_Api_Stepdefinitons:95 - Response is created
+2022-04-18 12:57:18 INFO  hermes_Api_Stepdefinitons:164 - Expected Data created in JsonUtil Format
+2022-04-18 12:59:38 INFO  hermes_Api_Stepdefinitons:95 - Response is created
+2022-04-18 12:59:38 INFO  hermes_Api_Stepdefinitons:164 - Expected Data created in JsonUtil Format
+2022-04-18 12:59:38 INFO  hermes_Api_Stepdefinitons:178 - Status is the as expected 200
+2022-04-18 13:04:26 INFO  hermes_Api_Stepdefinitons:95 - Response is created
+2022-04-18 13:04:26 INFO  hermes_Api_Stepdefinitons:164 - Expected Data created in JsonUtil Format
+2022-04-18 13:09:56 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:09:56 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:21:12 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:21:12 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:25:07 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:25:07 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:25:08 INFO  hermes_Api_Stepdefinitons:186 - Content Id is verified. It is same as 1957
+2022-04-18 13:25:08 INFO  hermes_Api_Stepdefinitons:194 - Expected data is 1957Actual data is 1957They are same
+2022-04-18 13:34:56 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:34:57 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:34:57 INFO  hermes_Api_Stepdefinitons:186 - Content Id is verified. It is same as 1957
+2022-04-18 13:34:57 INFO  hermes_Api_Stepdefinitons:194 - Expected data is 1957,  Actual data is 1957  They are same
+2022-04-18 13:34:57 INFO  hermes_Api_Stepdefinitons:200 - Content title is verified. It is same as Enjoy Pizza Delmenhorst
+2022-04-18 13:42:19 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:42:19 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:43:22 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:43:22 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:44:19 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:44:19 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:47:06 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:47:06 INFO  hermes_Api_Stepdefinitons:165 - Expected Data created in JsonUtil Format
+2022-04-18 13:49:41 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:49:41 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 13:51:54 INFO  hermes_Api_Stepdefinitons:96 - Response is created
+2022-04-18 13:51:55 INFO  hermes_Api_Stepdefinitons:156 - Expected Data created in JsonUtil Format
+2022-04-18 13:54:45 INFO  hermes_Api_Stepdefinitons:97 - Response is created
+2022-04-18 13:54:45 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 14:01:01 INFO  hermes_Api_Stepdefinitons:97 - Response is created
+2022-04-18 14:01:01 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 14:02:29 INFO  hermes_Api_Stepdefinitons:97 - Response is created
+2022-04-18 14:02:29 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 14:08:44 INFO  hermes_Api_Stepdefinitons:97 - Response is created
+2022-04-18 14:08:44 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 14:17:13 INFO  hermes_Api_Stepdefinitons:97 - Response is created
+2022-04-18 14:17:13 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 14:18:30 INFO  hermes_Api_Stepdefinitons:97 - Response is created
+2022-04-18 14:18:30 INFO  hermes_Api_Stepdefinitons:157 - Expected Data created in JsonUtil Format
+2022-04-18 14:24:15 INFO  hermes_Api_Stepdefinitons:98 - Response is created
+2022-04-18 14:24:16 INFO  hermes_Api_Stepdefinitons:158 - Expected Data created in JsonUtil Format
+2022-04-18 14:48:54 INFO  hermes_Api_Stepdefinitons:99 - Response is created
+2022-04-18 14:48:54 INFO  hermes_Api_Stepdefinitons:159 - Expected Data created in JsonUtil Format
+2022-04-18 14:55:18 INFO  hermes_Api_Stepdefinitons:99 - Response is created
+2022-04-18 14:55:18 INFO  hermes_Api_Stepdefinitons:159 - Expected Data created in JsonUtil Format
+2022-04-18 15:08:11 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:08:11 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:08:13 INFO  hermes_Api_Stepdefinitons:207 - Response payment Methods List size is verified 
+2022-04-18 15:09:58 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:09:58 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:09:59 INFO  hermes_Api_Stepdefinitons:207 - Response payment Methods List size is verified 
+2022-04-18 15:14:32 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:14:33 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:14:34 INFO  hermes_Api_Stepdefinitons:207 - Response payment Methods List size is verified 
+2022-04-18 15:16:11 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:16:11 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:16:12 INFO  hermes_Api_Stepdefinitons:207 - Response payment Methods List size is verified 
+2022-04-18 15:22:16 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:22:16 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:22:17 INFO  hermes_Api_Stepdefinitons:207 - Response payment Methods List size is verified 
+2022-04-18 15:22:17 INFO  hermes_Api_Stepdefinitons:218 - Response payment Methods has expected list 
+2022-04-18 15:31:54 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:31:55 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:36:40 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:36:40 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:38:26 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:38:26 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:38:28 INFO  hermes_Api_Stepdefinitons:227 - response payment Methods id-1 name is verified
+2022-04-18 15:39:59 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 15:39:59 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 15:40:00 INFO  hermes_Api_Stepdefinitons:227 - response payment Methods id-1 name is verified
+2022-04-18 23:57:31 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-18 23:57:31 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-18 23:57:31 INFO  hermes_Api_Stepdefinitons:175 - Status is the as expected 200
+2022-04-19 00:00:04 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-19 00:00:04 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-19 00:00:04 INFO  hermes_Api_Stepdefinitons:182 - Content Id is verified. It is same as 1957
+2022-04-19 00:00:04 INFO  hermes_Api_Stepdefinitons:190 - Expected data is 1957,  Actual data is 1957  They are same
+2022-04-19 00:00:04 INFO  hermes_Api_Stepdefinitons:196 - Content title is verified. It is same as Enjoy Pizza Delmenhorst
+2022-04-19 00:27:39 INFO  singleProduct_Api_StepDefinitions:89 - Expected Data is convert to Java with JsonUtil Class
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:96 - Response is received
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:102 - Actual Data is created 
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:107 - Verified the success is same data
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:110 - Verified the checksum is same data
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:113 - Verified the branch_id is same data
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:116 - Verified the product_id is same data
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:120 - Verified the d body id is same data
+2022-04-19 00:27:56 INFO  singleProduct_Api_StepDefinitions:130 - Verified the d body additives is same data
+2022-04-19 00:36:17 INFO  GetRequestMatcherClass:20 - Response is received
+2022-04-19 00:36:17 INFO  GetRequestMatcherClass:24 - Status code 200 is verified
+2022-04-19 00:36:21 INFO  GetRequestMatcherClass:62 - Body data assertion verified
+2022-04-19 00:42:34 INFO  GetRequestWithObjectMapper03:128 - Expected data for Object Mapper is created
+2022-04-19 00:42:38 INFO  GetRequestWithObjectMapper03:135 - Response  is success
+2022-04-19 00:42:39 INFO  GetRequestWithObjectMapper03:139 - Actual data for Object Mapper is created
+2022-04-19 10:35:35 INFO  GetRequest_MatcherClass:20 - Response is received
+2022-04-19 10:35:35 INFO  GetRequest_MatcherClass:24 - Status code 200 is verified
+2022-04-19 10:35:39 INFO  GetRequest_MatcherClass:62 - Body data assertion is verified with MatcherClass
+2022-04-19 10:40:48 INFO  GetRequestWith_ObjectMapper:89 - Expected Data is convert to Java with JsonUtil Class
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:96 - Response is received
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:102 - Actual Data is created 
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:107 - Verified the success is same data
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:110 - Verified the checksum is same data
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:113 - Verified the branch_id is same data
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:116 - Verified the product_id is same data
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:120 - Verified the d body id is same data
+2022-04-19 10:40:51 INFO  GetRequestWith_ObjectMapper:130 - Verified the d body additives is same data
+2022-04-19 10:54:46 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-19 10:54:46 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:167 - Response is converted Data for Actual Data (JsonUtil)
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:176 - Status is the as expected 200
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:167 - Response is converted Data for Actual Data (JsonUtil)
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:183 - Content Id is verified. It is same as 1957
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:190 - Expected data is 1957,  Actual data is 1957  They are same
+2022-04-19 10:54:47 INFO  hermes_Api_Stepdefinitons:196 - Content title is verified. It is same as Enjoy Pizza Delmenhorst
+2022-04-19 10:54:48 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-19 10:54:48 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-19 10:54:48 INFO  hermes_Api_Stepdefinitons:167 - Response is converted Data for Actual Data (JsonUtil)
+2022-04-19 10:54:49 INFO  hermes_Api_Stepdefinitons:207 - Response payment Methods List size is verified 
+2022-04-19 10:54:49 INFO  hermes_Api_Stepdefinitons:218 - Response payment Methods has expected list 
+2022-04-19 10:54:50 INFO  hermes_Api_Stepdefinitons:101 - Response is created
+2022-04-19 10:54:50 INFO  hermes_Api_Stepdefinitons:161 - Expected Data created in JsonUtil Format
+2022-04-19 10:54:50 INFO  hermes_Api_Stepdefinitons:167 - Response is converted Data for Actual Data (JsonUtil)
+2022-04-19 10:54:50 INFO  hermes_Api_Stepdefinitons:227 - response payment Methods id-1 name is verified
+2022-04-19 10:59:21 INFO  hermes_E2E_Stepdefinitions:43 - It has gone to the Hermes Home Page
+2022-04-19 10:59:21 INFO  hermes_E2E_Stepdefinitions:51 - American Burger is selected
+2022-04-19 10:59:21 INFO  hermes_E2E_Stepdefinitions:61 - American Burger category is verified
+2022-04-19 10:59:22 INFO  hermes_E2E_Stepdefinitions:75 - Mac`N Cheese Deluxe Burger product selected random
+2022-04-19 10:59:23 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 10:59:23 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 10:59:23 INFO  hermes_E2E_Stepdefinitions:104 - Mac`N Cheese Deluxe Burger is  added to the cart
+2022-04-19 10:59:24 INFO  hermes_E2E_Stepdefinitions:109 - Order Now button is clicked
+2022-04-19 10:59:24 INFO  hermes_E2E_Stepdefinitions:115 - Address page is displayed
+2022-04-19 10:59:27 INFO  hermes_E2E_Stepdefinitions:135 - Address boxes is full filled
+2022-04-19 10:59:27 INFO  hermes_E2E_Stepdefinitions:141 - CheckOut button is clicked
+2022-04-19 11:00:23 INFO  bugReport_Stepdefinitions:25 - Contact Us is clicked
+2022-04-19 11:00:25 INFO  bugReport_Stepdefinitions:32 - email address and commentbox are filled
+2022-04-19 11:00:25 INFO  bugReport_Stepdefinitions:38 - Agreement checkbox is clicked
+2022-04-19 11:00:25 INFO  bugReport_Stepdefinitions:44 - Sent feedbacks button is clicked 
+2022-04-19 11:01:04 INFO  hermes_E2E_Stepdefinitions:51 - Hot Dogs is selected
+2022-04-19 11:01:05 INFO  hermes_E2E_Stepdefinitions:61 - Hot Dogs category is verified
+2022-04-19 11:01:05 INFO  hermes_E2E_Stepdefinitions:75 - Chili Cheese Dog product selected random
+2022-04-19 11:01:05 INFO  hermes_E2E_Stepdefinitions:90 - Pickup Options is selected
+2022-04-19 11:01:07 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 11:01:07 INFO  hermes_E2E_Stepdefinitions:104 - Chili Cheese Dog is  added to the cart
+2022-04-19 11:01:07 INFO  hermes_E2E_Stepdefinitions:75 - Mexican Dog product selected random
+2022-04-19 11:01:07 INFO  hermes_E2E_Stepdefinitions:98 -  Product order is confirmed 
+2022-04-19 11:01:08 INFO  hermes_E2E_Stepdefinitions:104 - Mexican Dog is  added to the cart
